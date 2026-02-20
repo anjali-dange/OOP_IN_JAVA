@@ -1,6 +1,11 @@
+//to push code from local to github
 git init
 git add .
 git commit -m "first commit"
 git remote add origin https://github.com/username/repository-name.git
 git branch -M main
 git push -u origin main
+//suppose if u made some changes on local so to see all those on github use following commands
+git add .
+git commit -m "updated file"
+git push
