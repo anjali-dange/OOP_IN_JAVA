@@ -1,3 +1,4 @@
+//in this file all the github commands are mentioned properly
 //to push code from local to github
 git init
 git add .
